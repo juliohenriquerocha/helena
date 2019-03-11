@@ -1,0 +1,10 @@
+export default {
+  TEXT: 'TEXT',
+  ENUM: 'ENUM',
+  POWER_SELECT: 'POWER_SELECT',
+  NUMBER: 'NUMBER',
+  BOOLEAN: 'BOOLEAN',
+  //DATE
+  DATE: 'DATE',
+  MONTH: 'MONTH',
+};

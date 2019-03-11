@@ -1,6 +1,6 @@
 {
   "name": "helena-julio",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helena - Teste",
   "main": "lib/index.js",
   "scripts": {
@@ -44,17 +44,6 @@
     "worker-loader": "^0.7.1"
   },
   "dependencies": {
-    "classnames": "^2.2.5",
-    "data-collection": "^1.1.6",
-    "immutability-helper": "^2.1.2",
-    "lodash.debounce": "^4.0.8",
-    "lodash.max": "^4.0.1",
-    "lodash.take": "^4.1.1",
-    "lodash.takeright": "^4.1.1",
-    "lodash.throttle": "^4.1.1",
-    "lodash.times": "^4.3.2",
-    "uuid": "^3.0.1",
-
     "antd": "^3.11.6",
     "mobx": "^5.5.2",
     "mobx-react": "^5.3.6",

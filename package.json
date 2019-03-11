@@ -1,7 +1,7 @@
 {
   "name": "helena-julio",
-  "version": "0.0.1",
-  "description": "Helena - Teste 0.0.1",
+  "version": "0.0.2",
+  "description": "Helena - Teste",
   "main": "lib/index.js",
   "scripts": {
     "build": "NODE_ENV=production webpack --progress --color --env.prod",
@@ -23,8 +23,8 @@
   },
   "homepage": "https://github.com/juliohenriquerocha/helena#readme",
   "peerDependencies": {
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
@@ -38,9 +38,8 @@
     "copy-webpack-plugin": "^4.0.1",
     "eslint": "^3.16.0",
     "eslint-plugin-react": "^6.8.0",
-    "react": "^15.4.2",
-    "react-addons-update": "^15.4.2",
-    "react-dom": "^15.4.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
     "webpack": "^2.2.1",
     "worker-loader": "^0.7.1"
   },
@@ -54,6 +53,17 @@
     "lodash.takeright": "^4.1.1",
     "lodash.throttle": "^4.1.1",
     "lodash.times": "^4.3.2",
-    "uuid": "^3.0.1"
+    "uuid": "^3.0.1",
+
+    "antd": "^3.11.6",
+    "mobx": "^5.5.2",
+    "mobx-react": "^5.3.6",
+    "react-highlight-words": "^0.16.0",
+    "mobx-react-devtools": "^4.2.15",
+    "mobx-react-router": "^4.0.5",
+    "prop-types": "^15.6.2",
+    "moment": "^2.22.2",
+    "date-fns": "^1.29.0"
+
   }
 }

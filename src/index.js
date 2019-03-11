@@ -1,3 +1,6 @@
-import Hermes from "./hermes/Hermes";
+import SBPowerSearch from "./SBPowerSearch/SBPowerSearch";
+import SearchObject from "./SBPowerSearch/lib/SearchObject";
+import SearchType from "./SBPowerSearch/lib/SearchType";
+import SelectStoreInterface from "./SBPowerSearch/lib/SelectStoreInterface";
 
-export { Hermes };
+export { SBPowerSearch, SearchObject, SearchType, SelectStoreInterface };
